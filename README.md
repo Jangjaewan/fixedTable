@@ -1,5 +1,7 @@
 # Fixed Table
-자주 사용되는 상단 & 열 고정 테이블
+자주 사용되는 상단 & 열 고정 테이블   
+
+demo :[https://jangjaewan.github.io/fixedTable/](https://jangjaewan.github.io/fixedTable/)
 
 ## 상단 고정
 css로만 구현된 상단 고정 테이블로 스크롤되는 영역의 <code>overflow</code>값을 <code>scroll</code>로 설정해야 한다.
